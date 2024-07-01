@@ -1,0 +1,6 @@
+HTML
+
+HTML - Hyper Text Markup language
+HTML is a markup language that web developer use to structure and describe the content of the web page
+HTML is consists of elements that describe different type of content : like paragraphs ,headers and images etc
+
